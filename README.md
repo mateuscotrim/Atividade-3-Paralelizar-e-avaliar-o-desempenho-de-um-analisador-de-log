@@ -1,0 +1,1 @@
+# Atividade-3-Paralelizar-e-avaliar-o-desempenho-de-um-analisador-de-log
